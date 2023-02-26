@@ -17,7 +17,6 @@ import styles from './Button.module.css';
 //   &:focus {
 //     outline: none;
 //   }
-
 //   &:hover,
 //   &:active {
 //     background: #ac0e77;
